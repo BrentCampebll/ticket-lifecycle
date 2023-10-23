@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <a href="https://imgur.com/e8hlUPD"><img src="https://i.imgur.com/e8hlUPD.png" title="source: imgur.com" /></a>
 </p>
 <p>
-Here I will create a ticket and assign it to an agent.  The Agent will then communicate and escalate the issue if needed.  I started by creating 2 tickets.  One Simple one complex.
+Here I will create a ticket and assign it to an agent.  The Agent will then communicate and escalate the issue if needed.  I started by creating 2 tickets.  One severe and the other less severe.
 </p>
 <br />
 
